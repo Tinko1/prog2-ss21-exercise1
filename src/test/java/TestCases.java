@@ -1,5 +1,8 @@
-import org.junit.jupiter.api.BeforeAll;
-import org.junit.jupiter.api.BeforeEach;
+/*
+Author: Robert Martinko
+Job: Student FH-Campus Wien
+RepoLink: https://github.com/Tinko1/prog2-ss21-exercise1
+ */
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
